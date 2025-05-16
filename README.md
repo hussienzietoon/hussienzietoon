@@ -80,5 +80,3 @@
 > *"Automate everything you can. Document everything else."*
 
 ---
-
-Would you like this saved as a markdown file or directly pushed to your GitHub repo?
