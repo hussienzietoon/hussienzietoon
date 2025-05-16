@@ -1,74 +1,84 @@
+---
+
 # 👋 Hello! I'm Hussien Mohamed
 
 🎯 **DevOps Engineer | Software Engineering Student | Cloud & Automation Enthusiast**
 
 ---
 
-💡 I'm a results-driven DevOps Engineer with a passion for automating systems, optimizing infrastructure, and building scalable, secure, and reliable deployments. I'm currently enrolled in the **DevOps Diploma at Route Academy**, gaining hands-on experience in:
+💡 I'm a results-driven DevOps Engineer passionate about automation, cloud infrastructure, and delivering reliable, secure systems. Currently enrolled in the **DevOps Diploma at Route Academy**, I'm gaining real-world experience with:
 
-- 🐳 Docker & Kubernetes
-- ⚙️ CI/CD with GitLab
-- 🌩️ AWS Cloud Services
-- 📦 Infrastructure as Code (Terraform, Ansible)
-- 🛡️ DevSecOps, Monitoring & Automation
+* 🐳 Docker & Kubernetes
+* ⚙️ CI/CD using GitLab
+* 🌩️ AWS Cloud Services (EC2, IAM, CloudWatch, S3, ECR)
+* 📦 Infrastructure as Code (Terraform, Ansible)
+* 🛡️ DevSecOps, Monitoring & Automation
 
 ---
 
 ## 📘 About Me
 
-- 🎓 **B.Sc. in Software Engineering** (Arab Academy for Science, Technology & Maritime Transport)
-- 💼 **DevOps Intern at Route Academy**
-- 🧩 **Odoo Developer Intern at Switchable**, where I built a custom real estate module
-- 💬 Fluent in English & Arabic
+* 🎓 **B.Sc. in Software Engineering (Computer Science)**
+  *Arab Academy for Science, Technology & Maritime Transport (2022–2026)*
+* 💼 **DevOps Intern** at *Route Academy* (Feb 2025 – Present)
+* 🧩 **Odoo Developer Intern** at *Switchable* (Oct 2024 – Jan 2025)
+  Built a custom real estate module with tenant and maintenance features
+* 💬 Fluent in English & Arabic
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-| Category             | Tools & Skills |
-|----------------------|----------------|
-| **OS**               | Linux (RHEL, Ubuntu), Windows |
-| **Languages**        | Python, Java, Bash, C |
-| **DevOps Tools**     | Docker, Kubernetes, GitLab CI/CD, Terraform, Ansible |
-| **Cloud & Monitoring** | AWS (EC2, IAM, CloudWatch, S3, ECR), DevSecOps |
+| Category               | Tools & Skills                                                   |
+| ---------------------- | ---------------------------------------------------------------- |
+| **OS**                 | Linux (RHEL, Ubuntu), Windows                                    |
+| **Languages**          | Python, Java, C, Bash                                            |
+| **DevOps Tools**       | Docker, Kubernetes, GitLab CI/CD, Git/GitHub, Terraform, Ansible |
+| **Cloud & Monitoring** | AWS (EC2, IAM, CloudWatch, S3, ECR), DevSecOps                   |
 
 ---
 
 ## 🔧 Projects
 
-- ⚙️ **Node Multi-Stage Docker** – Optimized image builds with multi-stage techniques.
-- 🐍 **Flask Containerized App** – Scalable Flask API inside Docker containers.
-- 🌐 **Dockerized MERN App** – Full-stack MERN application using Docker Compose.
-- 🐚 **Bash-Based DBMS** – Command-line DBMS with full CRUD functionality.
-- 🏠 **Odoo Real Estate Module** – Custom tenant/property management system using Python & XML.
+* ⚡ **FastAPI App with Docker** – RESTful API with secure multi-stage builds
+* ⚙️ **Node Multi-Stage Docker** – Optimized builds and image sizes
+* 🐍 **Flask Containerized App** – Scalable Flask API in Docker
+* 🌐 **Dockerized MERN App** – Full-stack MERN app with Docker Compose
+* 🐚 **Bash-Based DBMS** – CLI-based CRUD system
+* 🏠 **Odoo Real Estate Module** – Tenant/property management in Odoo
 
 ---
 
 ## 📜 Certifications
 
-- 🚀 Docker Essentials - KodeKloud  
-- 🎛️ Kubernetes for Beginners - KodeKloud  
-- ⚙️ Ansible Basics - KodeKloud  
-- 🧠 DevOps Pre-requisites - KodeKloud  
-- 📚 **DevOps Diploma (Ongoing)** - Route Academy  
+* ☁️ **AWS Cloud Practitioner (CLF-C02)** – KodeKloud
+* 🐳 **Docker for Beginners** – KodeKloud
+* 🎛️ **Kubernetes for Beginners** – KodeKloud
+* ⚙️ **Ansible Basics** – KodeKloud
+* 🚀 **DevOps Pre-requisites** – KodeKloud
+* 🧠 **Kubernetes & Cloud Native Essentials (LFS250)** – The Linux Foundation
+* 🎓 **DevOps Diploma (Ongoing)** – Route Academy
 
 ---
 
 ## 🧠 Soft Skills
 
-- 💡 Problem Solving – Debugging, troubleshooting & critical thinking  
-- 🤝 Collaboration – Agile teamwork & adaptability  
-- 📝 Communication – Technical writing, documentation & presentations  
+* 💡 Problem-Solving – Debugging, critical thinking, troubleshooting
+* 🤝 Collaboration – Agile teamwork, adaptability
+* 📝 Communication – Documentation, technical writing, presentation
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hussien-mohamed-zietoon-9960ba317/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/hussienzietoon)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hussinzietoon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/hussien-mohamed-zietoon-9960ba317/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square\&logo=github)](https://github.com/hussienzietoon)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:hussinzietoon@gmail.com)
 
 ---
 
 > *"Automate everything you can. Document everything else."*
 
+---
+
+Would you like this saved as a markdown file or directly pushed to your GitHub repo?
