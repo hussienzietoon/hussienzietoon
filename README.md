@@ -63,11 +63,12 @@ DevOps Engineer in final year of Software Engineering studies. Experienced with 
   - Added Slack notifications for pipeline status
 
 - **Other Projects**  
-  - FastAPI RESTful app with Docker multi-stage builds  
-  - Node.js application with optimized Docker builds  
-  - MERN stack app containerized with Docker Compose  
-  - Flask web app containerized for portability  
-  - Bash-based command-line DBMS with CRUD operations
+  - ⚡ **FastAPI App with Docker** – RESTful API with secure multi-stage builds
+  - ⚙️ **Node Multi-Stage Docker** – Optimized builds and image sizes
+  - 🐍 **Flask Containerized App** – Scalable Flask API in Docker
+  - 🌐 **Dockerized MERN App** – Full-stack MERN app with Docker Compose
+  - 🐚 **Bash-Based DBMS** – CLI-based CRUD system
+  - 🏠 **Odoo Real Estate Module** – Tenant/property management in Odoo
 
 ---
 
@@ -78,25 +79,31 @@ DevOps Engineer in final year of Software Engineering studies. Experienced with 
 - **Containerization**: Docker, multi-stage builds  
 - **Programming**: Python, Bash, Java, C  
 - **Operating Systems**: Linux (RHEL, Ubuntu), Windows  
-- **Monitoring**: Prometheus, Grafana
+- **Cloud & Monitoring**: AWS (EC2, IAM, CloudWatch, S3, ECR), Prometheus, Grafana, DevSecOps
 
 ---
 
 ### Certifications
-- DevOps Diploma – Route Academy  
-- KCNA: Kubernetes and Cloud Native Associate – The Linux Foundation  
-- AWS Cloud Practitioner (CLF-C02) – KodeKloud  
-- Ansible Basics – KodeKloud  
-- DevOps Pre-Requisite Course – KodeKloud  
-- Docker Training Course – KodeKloud  
-- Terraform Basics Training Course – KodeKloud
+- 🎓 **DevOps Diploma** – Route Academy  
+- 🧠 **KCNA: Kubernetes and Cloud Native Associate** – The Linux Foundation  
+- ☁️ **AWS Cloud Practitioner (CLF-C02)** – KodeKloud  
+- ⚙️ **Ansible Basics** – KodeKloud  
+- 🚀 **DevOps Pre-Requisite Course** – KodeKloud  
+- 🐳 **Docker Training Course** – KodeKloud  
+- 📦 **Terraform Basics Training Course** – KodeKloud
 
 ---
 
 ### Soft Skills
-- Problem-Solving: Troubleshooting, debugging, critical thinking  
-- Collaboration: Teamwork, adaptability  
-- Communication: Technical writing, documentation, presentation
+- 💡 **Problem-Solving**: Troubleshooting, debugging, critical thinking  
+- 🤝 **Collaboration**: Teamwork, adaptability  
+- 📝 **Communication**: Technical writing, documentation, presentation
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hussien-mohamed-zietoon-9960ba317/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/hussienzietoon)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hussinzietoon@gmail.com)
 
 ---
 
