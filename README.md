@@ -101,4 +101,3 @@ DevOps Engineer in final year of Software Engineering studies. Experienced with 
 ---
 
 > "Automate everything you can. Document everything else."
-
