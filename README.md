@@ -1,107 +1,82 @@
 ## Hussien Mohamed
 
-**DevOps Engineer**
+**DevOps / Platform Engineer**
 
 `hussinzietoon@gmail.com` • `+20 1010990829`  
-[LinkedIn](https://www.linkedin.com/in/hussien-mohamed-zietoon-9960ba317/) • [GitHub](https://github.com/hussienzietoon)
+[LinkedIn](https://www.linkedin.com/in/hussien-mohamed-zietoon) • [GitHub](https://github.com/hussienzietoon)
 
 ---
 
 ### Summary
-DevOps Engineer in final year of Software Engineering studies. Experienced with GitOps, Kubernetes, Docker, Terraform, and CI/CD pipelines. Hands-on with AWS, monitoring stacks, and enterprise IT operations through internships at eSpace and Mantrac Egypt.
+
+Platform-focused DevOps Engineer with hands-on experience building and owning multi-cloud infrastructure at Nethermind, including a self-service VM provisioning platform across AWS, Linode, and OVH. Experienced in Terraform, Terragrunt, cross-account IAM, GitOps with Argo CD, Go-based Lambda services, and CI/CD reliability. AWS Certified Solutions Architect – Associate (SAA-C03) and KCNA-certified. Recently graduated and fully available for full-time roles.
 
 ---
 
 ### Education
+
 - **Arab Academy for Science, Technology & Maritime Transport** — B.Sc. in Software Engineering (Computer Science)  
-  Oct 2022 – Present
+  Oct 2022 – Jun 2026
 
 ---
 
 ### Work Experience
-- **IT Intern — Mantrac Egypt, Alexandria (On-site)**  
-  - Learned Windows Server and Active Directory basics (user management, group policies)  
-  - Gained exposure to Microsoft Azure hybrid integration  
-  - Introduced to ITSM principles and ServiceNow  
-  - Understood networking fundamentals and troubleshooting  
-  - Observed data center operations in a Microsoft-centric environment
 
-- **DevOps Intern — eSpace, Alexandria (Hybrid)**  
-  - Built and maintained GitOps deployment platform with ArgoCD  
-  - Automated infrastructure provisioning with Terraform for Kubernetes clusters and applications  
-  - Configured persistent storage for PostgreSQL and Redis  
-  - Implemented networking with ingress controllers  
-  - Integrated Celery and n8n for task automation  
-  - Deployed monitoring with Prometheus and Grafana
+#### DevOps / Platform Engineering Intern — Nethermind (Remote)
+*Apr 2026 – July 2026*
 
-- **DevOps Trainee (Diploma) — Route Academy (Remote)**  
-  - Built CI/CD pipelines using GitLab CI  
-  - Automated infrastructure with Terraform and Ansible  
-  - Deployed applications with Docker and Kubernetes  
-  - Applied AWS tools and DevSecOps practices for security and monitoring
+- Worked across Nethermind’s internal Platform Hosting Services covering infrastructure automation, cloud provisioning, CI/CD reliability, GitOps workflows, and internal DevOps tooling; shipped **100+ merged PRs** across five repositories over three months
+- Developed and extended a multi-cloud **VM Request Slack Bot** for self-service VM provisioning across AWS, Linode, and OVH through Slack-based request and approval workflows
+- Designed and implemented AWS and OVH provisioning workflows across **13 target AWS accounts**, including provider-specific logic, IAM permissions, Infisical/SSM secrets, VPC/subnet/security group validation, and user-facing error handling
+- Refactored legacy VM bot infrastructure into reusable **Terraform modules** and integrated deployments through **Terragrunt** across platform environments
+- Implemented AWS IAM/OIDC, S3 artifact uploads, Go-based Lambda services, API Gateway deployment, Infisical-to-SSM secret synchronization, and CloudWatch troubleshooting
+- Designed AWS **cross-account IAM** access patterns for internal automation, enabling central services to assume roles in target AWS accounts using Terraform/Terragrunt-managed infrastructure
+- Led DevOps infrastructure for **InfraAgent**, a commercial crypto security assessment product, including AWS cloud scanning access planning, cross-account IAM role design, Argo CD/Kubernetes deployment planning, Infisical secrets, and SLSA/supply-chain security with GitHub artifact attestations and Sigstore
+- Improved Terragrunt CI reliability across **41 stacks** by enabling provider caching, reducing runner disk overhead from 100% full-disk failures to under 2% additional usage
+- Added CI/CD guardrails across platform repositories, including Argo CD duplicate detection, Terramate stack validation, Dependabot auto-merge, and dev-environment deployment testing
 
-- **Odoo Development Intern — Switchable, Alexandria**  
-  - Developed a custom real estate module in Odoo ERP  
-  - Built property management, maintenance, and tenant portal features  
-  - Improved system performance with Python, XML, and Odoo ORM
+#### DevOps Engineer Intern — eSpace, Alexandria (Hybrid)
+*Jul 2025 – Aug 2025*
 
----
-
-### Projects
-- **Enterprise Onboarding System Infrastructure (eSpace)**  
-  - Implemented GitOps with ArgoCD for consistent releases  
-  - Managed stateful services with persistent storage  
-  - Integrated AI services with optimized resource allocation  
-  - Established monitoring with Prometheus and Grafana  
-  - Automated environment sync policies
-
-- **DevOps Pipeline for Task Management System (GitLab Repository)**  
-  - Designed CI/CD pipeline in GitLab with five automated stages  
-  - Deployed microservices with Docker and Ansible on AWS EC2  
-  - Provisioned infrastructure with Terraform and configured PostgreSQL persistence  
-  - Integrated Trivy for security scanning and SonarQube for code quality  
-  - Added Slack notifications for pipeline status
-
-- **Other Projects**  
-  - ⚡ **FastAPI App with Docker** – RESTful API with secure multi-stage builds
-  - ⚙️ **Node Multi-Stage Docker** – Optimized builds and image sizes
-  - 🐍 **Flask Containerized App** – Scalable Flask API in Docker
-  - 🌐 **Dockerized MERN App** – Full-stack MERN app with Docker Compose
-  - 🐚 **Bash-Based DBMS** – CLI-based CRUD system
-  - 🏠 **Odoo Real Estate Module** – Tenant/property management in Odoo
+- Provisioned AWS infrastructure using Terraform, including VPCs, EC2, IAM roles, and security groups; implemented GitOps deployment workflows with Argo CD
+- Built and automated CI/CD pipelines using GitLab CI/CD integrated with GitHub repositories
+- Deployed and managed containerized microservices on Kubernetes; configured Ingress, RBAC, PostgreSQL, Redis, and persistent storage
+- Built observability dashboards using Prometheus and Grafana; diagnosed deployment, networking, and application failures using logs and metrics
 
 ---
 
 ### Technical Skills
-- **Container Orchestration**: Kubernetes, ArgoCD, GitOps  
-- **Infrastructure as Code**: Terraform, Ansible  
-- **CI/CD & Version Control**: GitLab CI/CD, Git, GitHub  
-- **Containerization**: Docker, multi-stage builds  
-- **Programming**: Python, Bash, Java, C  
-- **Operating Systems**: Linux (RHEL, Ubuntu), Windows  
-- **Cloud & Monitoring**: AWS (EC2, IAM, CloudWatch, S3, ECR), Prometheus, Grafana, DevSecOps
+
+| Area | Skills |
+| --- | --- |
+| **Cloud / IaC** | AWS (EC2, EKS, VPC, IAM, S3, Lambda, API Gateway, SSM, CloudWatch), Terraform, Terragrunt, Terramate, Ansible |
+| **Containers / GitOps** | Kubernetes, Docker, Argo CD, Ingress, RBAC |
+| **CI/CD / Security** | GitHub Actions, GitLab CI/CD, Dependabot, SLSA provenance, Sigstore, GitHub artifact attestations |
+| **Linux / Networking** | systemd, journalctl, Bash, TCP/IP, HTTP, DNS, curl, dig, nslookup |
+| **Observability / Secrets** | Prometheus, Grafana, Infisical, SSM Parameter Store, Vault familiarity |
+| **Programming** | Go, Python, Bash, YAML |
 
 ---
 
 ### Certifications
-- 🎓 **DevOps Diploma** – Route Academy  
-- 🧠 **KCNA: Kubernetes and Cloud Native Associate** – The Linux Foundation  
-- ☁️ **AWS Cloud Practitioner (CLF-C02)** – KodeKloud  
-- ⚙️ **Ansible Basics** – KodeKloud  
-- 🚀 **DevOps Pre-Requisite Course** – KodeKloud  
-- 🐳 **Docker Training Course** – KodeKloud  
-- 📦 **Terraform Basics Training Course** – KodeKloud
+
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- **KCNA** – Kubernetes and Cloud Native Associate
+- **AWS Cloud Services Management & Operation** – NTI
+- **DevOps Diploma** – Route Academy
 
 ---
 
-### Soft Skills
-- 💡 **Problem-Solving**: Troubleshooting, debugging, critical thinking  
-- 🤝 **Collaboration**: Teamwork, adaptability  
-- 📝 **Communication**: Technical writing, documentation, presentation
+### Languages
+
+- **English**: B2 – Professional working proficiency
+- **Arabic**: Native
+
+---
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hussien-mohamed-zietoon-9960ba317/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hussien-mohamed-zietoon)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/hussienzietoon)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hussinzietoon@gmail.com)
 
